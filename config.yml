@@ -1,3 +1,4 @@
+repository_name: alternativesite1 #writing this to see if can use something other than site.baseurl
 title: Your awesome title
 author:
   name: GitHub User
